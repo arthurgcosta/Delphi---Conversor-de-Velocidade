@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/18 12:29:20.000.629,=C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/18 13:02:52.000.296,C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\arthu\Documents\Delphi\Conversor Velo\ConversorVel.pass.pas</Transaction>
+    <Transaction>2019/09/18 13:02:52.000.296,C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\arthu\Documents\Delphi\Conversor Velo\ConversorVel.pass.dfm</Transaction>
+    <Transaction>2019/09/18 13:03:05.000.190,C:\Users\arthu\OneDrive\UniSEB - COC\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\arthu\Documents\Delphi\Conversor Velo\ConversorVel.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
